@@ -28,7 +28,7 @@
 
 | Full assembly | PCB | 3D Case |
 |:---:|:---:|:---:|
-| ![PCB](images/render PCB.PNG) | ![Back](images/2.jpg) | ![Open](images/3.jpg) |
+| ![PCB](images/render_PCB.PNG) | ![Back](images/2.jpg) | ![Open](images/3.jpg) |
 
 
 ---
