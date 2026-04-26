@@ -26,7 +26,7 @@
 ## 📸 Gallery
 
 
-| Full assembly | PCB | 3D Case |
+| PCB | Back view | Open |
 |:---:|:---:|:---:|
 | ![PCB](images/render_PCB.PNG) | ![Back](images/2.jpg) | ![Open](images/3.jpg) |
 
